@@ -76,7 +76,9 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![280597431-531a3844-6190-43da-af8e-fd18668bc1bd](https://github.com/BaskaranV15/HUFFMAN-CODING-/assets/118703522/2da26db7-9d58-48f8-b3e0-9d79d72b7ce9)
+
+
+![doop](https://github.com/BaskaranV15/HUFFMAN-CODING-/assets/118703522/dd519454-04d9-4e51-9737-068199363a7d)
 
 
 ## Result
